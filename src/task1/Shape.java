@@ -6,5 +6,5 @@ package task1;
 
 public interface Shape {
 
-    public void draw();
+    void draw();
 }
