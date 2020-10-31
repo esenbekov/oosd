@@ -1,4 +1,4 @@
-package task1;
+package FactoryMethod;
 
 /**
  * created by eseisl on 31.10.2020
