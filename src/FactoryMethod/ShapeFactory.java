@@ -18,8 +18,8 @@ public class ShapeFactory {
 
         } else if(shapeType.equalsIgnoreCase("square")){
             return new Square();
+        } else {
+            throw new RuntimeException(shapeType +" is unknown shape.");
         }
-
-        return null;
     }
 }
