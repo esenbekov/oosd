@@ -26,5 +26,7 @@ public class ShapeCache {
         Rectangle rectangle = new Rectangle();
         rectangle.setId("3");
         shapeMap.put(rectangle.getId(), rectangle);
+
+
     }
 }
